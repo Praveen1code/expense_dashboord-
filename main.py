@@ -9,8 +9,8 @@ st.set_page_config(page_title="Family Wealth Dashboard", page_icon="📊", layou
 # Theme tweak to make it look clean and modern
 st.markdown("""
     <style>
-    .metric-card { background-color: #1e293b; padding: 20px; border-radius: 10px; border: 1px solid #334155; }
-    div[data-testid="stMetric"] { background-color: #111827; padding: 15px; border-radius: 10px; border: 1px solid #374151; }
+    .metric-card { background-color: #1e293b; padding: 10px; border-radius: 10px; border: 1px solid #334155; }
+    div[data-testid="stMetric"] { background-color: #111827; padding: 10px; border-radius: 10px; border: 1px solid #374151; }
     </style>
 """, unsafe_allow_html=True)
 
