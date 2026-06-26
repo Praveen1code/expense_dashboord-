@@ -14,8 +14,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Modern Family Wealth & Expense Hub")
-st.markdown("Track, budget, and optimize your joint monthly spending starting July 2026.")
+st.title("📊 Monthly Expense Hub")
+st.markdown("Optimizing joint monthly spending starting July'26!!")
 
 DATA_FILE = "expenses.csv"
 
