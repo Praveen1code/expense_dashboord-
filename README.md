@@ -36,6 +36,6 @@ A real-time collaborative expense tracking application where multiple users can 
    * Choose `app.py` as the main file.
    * Click **Deploy**.
 
-Your Expense Dashboard will be live in a few minutes.
+
 
 
