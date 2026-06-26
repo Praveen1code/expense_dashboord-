@@ -10,5 +10,32 @@ A real-time collaborative expense tracking application where multiple users can 
 - 📈 Category-wise analytics
 - 📱 Responsive design
 
+## 🚀 Deployment
+
+### Streamlit Deployment
+
+1. Install Streamlit:
+
+   ```bash
+   pip install streamlit
+   ```
+
+2. Run the application locally:
+
+   ```bash
+   streamlit run app.py
+   ```
+
+3. Push the project to GitHub.
+
+4. Deploy on **Streamlit Community Cloud**:
+
+   * Sign in with your GitHub account.
+   * Click **New App**.
+   * Select your repository.
+   * Choose `app.py` as the main file.
+   * Click **Deploy**.
+
+Your Expense Dashboard will be live in a few minutes.
 
 
