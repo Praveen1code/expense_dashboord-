@@ -28,7 +28,7 @@ else:
 
 # Sidebar Settings
 st.sidebar.header("⚙️ Configuration")
-MONTHLY_BUDGET = st.sidebar.number_input("Set Monthly Budget (₹)", min_value=25000.0, value=35000, step=0.0)
+MONTHLY_BUDGET = st.sidebar.number_input("Set Monthly Budget (₹)", min_value=25000.0, value=35000.0, step=100.0)
 
 # Sidebar Form for entry
 st.sidebar.markdown("---")
