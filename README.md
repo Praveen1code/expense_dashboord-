@@ -10,9 +10,9 @@ A real-time collaborative expense tracking application where multiple users can 
 - 📈 Category-wise analytics
 - 📱 Responsive design
 
-## 🚀 Deployment
+#### 🚀 Deployment
 
-### Streamlit Deployment
+##### Streamlit Deployment
 
 1. Install Streamlit:
 
